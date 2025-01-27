@@ -6,7 +6,7 @@
 
 <main>
   <h3>
-    <a href="https://github.com/ravael/svelteplate">See Project's GitHub!</a>
+    <a href="https://github.com/ravaeljasny/svelteplate">See Project's GitHub!</a>
   </h3>
   <hr />
   <h1>{title}</h1>
